@@ -17,6 +17,18 @@
     {
       "source": "/ai-agent-kopisenja/:path*",
       "destination": "https://demo-ai-agent-kopisenja.vercel.app/:path*"
+    },
+    {
+      "source": "/shoe-tryon",
+      "destination": "https://demo-shoe-tryon.vercel.app/shoe-tryon/"
+    },
+    {
+      "source": "/shoe-tryon/",
+      "destination": "https://demo-shoe-tryon.vercel.app/shoe-tryon/"
+    },
+    {
+      "source": "/shoe-tryon/:path*",
+      "destination": "https://demo-shoe-tryon.vercel.app/shoe-tryon/:path*"
     }
   ]
 }
